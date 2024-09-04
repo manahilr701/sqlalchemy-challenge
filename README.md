@@ -41,22 +41,22 @@ This project analyzes climate data, particularly from Hawaii, to uncover trends 
 - Matplotlib
 - Jupyter Notebook
 
-#Analysis
+# Analysis
 
 The analysis focuses on identifying trends in temperature and precipitation data from various Hawaiian stations to understand the region's climate behavior.
 
 ## Key Questions Addressed
 
--**Temperature Trends**: What are the average temperatures during different times of the year? How do these temperatures vary across different stations?
--**Precipitation Analysis**: What are the precipitation levels across different stations? Are there any significant trends or outliers?
--**Station Data Comparison**: How do various stations compare in terms of the data they provide? Are some stations more consistent or reliable than others?
+- **Temperature Trends**: What are the average temperatures during different times of the year? How do these temperatures vary across different stations?
+- **Precipitation Analysis**: What are the precipitation levels across different stations? Are there any significant trends or outliers?
+- **Station Data Comparison**: How do various stations compare in terms of the data they provide? Are some stations more consistent or reliable than others?
 ## Results
 
--**Temperature Analysis**: The analysis reveals seasonal variations in temperature across the stations. We identified the warmest and coolest periods of the year, with clear trends indicating temperature peaks during the summer months.
+- **Temperature Analysis**: The analysis reveals seasonal variations in temperature across the stations. We identified the warmest and coolest periods of the year, with clear trends indicating temperature peaks during the summer months.
 
--**Precipitation Patterns**: The data showed variability in precipitation levels across different stations. Some stations reported higher levels consistently, indicating regional differences in rainfall.
+- **Precipitation Patterns**: The data showed variability in precipitation levels across different stations. Some stations reported higher levels consistently, indicating regional differences in rainfall.
 
--**Station Comparisons**: By comparing data across stations, we identified which stations provided the most complete and reliable data sets. This is crucial for understanding localized climate conditions.
+- **Station Comparisons**: By comparing data across stations, we identified which stations provided the most complete and reliable data sets. This is crucial for understanding localized climate conditions.
 
 # Visualizations
 The Jupyter Notebook includes various visualizations such as line charts, bar graphs, and scatter plots to illustrate the findings. These visualizations make it easier to understand trends and anomalies in the data.
@@ -64,12 +64,12 @@ The Jupyter Notebook includes various visualizations such as line charts, bar gr
 # Usage Examples
 ## Flask API
 
--**Temperature Data**: Fetch temperature data for a specific date range.
--**Precipitation Data**: Query precipitation levels for specific stations.
+- **Temperature Data**: Fetch temperature data for a specific date range.
+- **Precipitation Data**: Query precipitation levels for specific stations.
 # Jupyter Notebook
 
--**EDA and Visualization**: Perform data exploration and visualization.
--**SQL Queries**: Retrieve and analyze data directly from the SQLite database.
+- **EDA and Visualization**: Perform data exploration and visualization.
+- **SQL Queries**: Retrieve and analyze data directly from the SQLite database.
 
 
 
